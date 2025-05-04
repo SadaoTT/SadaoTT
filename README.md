@@ -1,7 +1,7 @@
 # Olá, me chamo Sadao ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou em transisão de carreira, focado em ir para a área de Quality Assurance - QA
+- 🔭 Atualmente estou em transição de carreira, focado em ir para a área de Quality Assurance - QA
 
 
 
