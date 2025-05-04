@@ -18,8 +18,10 @@
 </div>
 
 
-<div>
+##
+<p align="center">
 <a href="https://github.com/SadaoTT">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?SadaoTT&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?SadaoTT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
