@@ -19,7 +19,7 @@
 
 
 <div>
-<a href="https://github.com/sadaott">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?sadaott&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?sadaott&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/SadaoTT">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?SadaoTT&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?SadaoTT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
