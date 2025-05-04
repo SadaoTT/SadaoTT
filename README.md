@@ -1,11 +1,11 @@
 # Sadao Tomoyuki
+
 ## Bem vindo ao meu perfil GitHub 👋
-
-- 🔭 Atualmente estou em transição de carreira, focado em ir para a área de Quality Assurance - QA
-
+Tenho 36 anos, sou do Rio de janeiro, mas hoje moro em São Paulo/SP. Atualmente estou em transição de carreira, focado em ir para a área de Quality Assurance - QA 🔭
 
 
-- 🌱 Atualmente estou aprendendo sobre algumas ferramentas e tecnologias:
+
+### 🌱 Atualmente estou aprendendo e trabalhando com algumas ferramentas e tecnologias:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50" height="50"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50" height="50"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
 
